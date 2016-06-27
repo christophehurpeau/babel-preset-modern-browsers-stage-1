@@ -1,0 +1,35 @@
+{
+  "name": "babel-preset-modern-browsers-stage-1",
+  "version": "0.0.0",
+  "description": "Babel stage 1 preset for modern browsers",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "homepage": "https://github.com/christophehurpeau/babel-preset-modern-browsers-stage-1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophehurpeau/babel-preset-modern-browsers-stage-1.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-syntax-trailing-function-commas": "^6.8.0",
+    "babel-plugin-transform-async-to-generator": "^6.8.0",
+    "babel-plugin-transform-class-constructor-call": "^6.8.0",
+    "babel-plugin-transform-class-properties": "^6.9.1",
+    "babel-plugin-transform-decorators": "^6.8.0",
+    "babel-plugin-transform-export-extensions": "^6.8.0",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "preset",
+    "modern",
+    "browser",
+    "browsers"
+  ],
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/babel-preset-modern-browsers-stage-1/issues"
+  }
+}
