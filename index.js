@@ -6,12 +6,12 @@ module.exports = {
         require("babel-plugin-syntax-trailing-function-commas"),
 
         // Stage 2
+        require("babel-plugin-transform-class-properties"),
         require("babel-plugin-transform-object-rest-spread"),
+        require("babel-plugin-transform-decorators"),
 
         // Stage 1
         require("babel-plugin-transform-class-constructor-call"),
-        require("babel-plugin-transform-class-properties"),
-        require("babel-plugin-transform-decorators"),
         require("babel-plugin-transform-export-extensions")
     ]
 };
