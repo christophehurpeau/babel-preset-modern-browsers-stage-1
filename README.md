@@ -1,5 +1,7 @@
 # babel-preset-modern-browsers-stage-1
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/babel-preset-modern-browsers-stage-1.svg)](https://greenkeeper.io/)
+
 [![NPM Version](http://img.shields.io/npm/v/babel-preset-modern-browsers-stage-1.svg?style=flat-square)](https://www.npmjs.org/package/babel-preset-modern-browsers-stage-1)
 ![Edge 14](https://img.shields.io/badge/Edge-14-green.svg?style=flat-square)
 ![Firefox 47](https://img.shields.io/badge/Firefox-47-green.svg?style=flat-square)
